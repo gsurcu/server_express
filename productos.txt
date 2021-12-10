@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": "libro",
+    "price": 20,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/8/87/Old_book_bindings.jpg"
+  },
+  {
+    "id": 2,
+    "title": "goma",
+    "price": 2,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Office-pink-erasers.jpg"
+  },
+  {
+    "id": 3,
+    "title": "lapicera",
+    "price": 8,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Ballpen_head_macro.jpg"
+  }
+]
